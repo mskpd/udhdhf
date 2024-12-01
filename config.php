@@ -1,4 +1,4 @@
 <?php
-$api="6234162487:AAESYcXQK9Cmj8buuinKSBMmb4VEgEdXzd4";
-$chatid="5844095750";
+$api="6819516823:AAHjSdp4OYmnMlnzoHb7QgQRVOXSZ4LKaTw";
+$chatid="2112852041";
 ?>
